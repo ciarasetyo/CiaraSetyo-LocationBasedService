@@ -1,0 +1,78 @@
+<resources>
+    <string name="app_name">BinusEzyFoody</string>
+
+    <string-array name="drinksItem">
+        <item>Air Mineral</item>
+        <item>Jus Apel</item>
+        <item>Jus Mangga</item>
+        <item>Jus Alpukat</item>
+    </string-array>
+
+    <string-array name="drinksPrice">
+        <item>Rp 8.000</item>
+        <item>Rp 25.000</item>
+        <item>Rp 25.000</item>
+        <item>Rp 25.000</item>
+    </string-array>
+
+    <string-array name="intDrinksPrice">
+        <item>8000</item>
+        <item>25000</item>
+        <item>25000</item>
+        <item>25000</item>
+    </string-array>
+
+    <string-array name="topupItem">
+        <item>Top Up 50k</item>
+    </string-array>
+
+    <string-array name="topupPrice">
+        <item>Rp 51.000</item>
+    </string-array>
+
+    <string-array name="intTopupPrice">
+        <item>51000</item>
+    </string-array>
+
+    <string-array name="snacksItem">
+        <item>Kentang Goreng</item>
+    </string-array>
+
+    <string-array name="snacksPrice">
+        <item>Rp 20.000</item>
+    </string-array>
+
+    <string-array name="intSnacksPrice">
+        <item>20000</item>
+    </string-array>
+
+    <string-array name="foodsItem">
+        <item>Nasi Hainam</item>
+    </string-array>
+
+    <string-array name="foodsPrice">
+        <item>Rp 35.000</item>
+    </string-array>
+
+    <string-array name="intFoodsPrice">
+        <item>35000</item>
+    </string-array>
+
+    <string-array name="address">
+        <item>Bekasi</item>
+        <item>Kemanggisan</item>
+        <item>Alam Sutera</item>
+    </string-array>
+
+    <string-array name="coordinateX">
+        <item>-6.2200771</item>
+        <item>-6.2019433</item>
+        <item>-6.2247123</item>
+    </string-array>
+
+    <string-array name="coordinateY">
+        <item>106.997531</item>
+        <item>106.7787429</item>
+        <item>106.6480861</item>
+    </string-array>
+</resources>
